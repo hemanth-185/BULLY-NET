@@ -1,0 +1,24 @@
+BullyNet: Unmasking Cyberbullies on Social Networks
+
+
+
+BullyNet
+
+bullynet
+
+
+Tweet_Prediction_model
+
+Tweet_Id
+Tweet_Message
+Prediction_Type
+
+
+
+unmasking cyberbullies,social media,cyberbullying signed network,traditional bullying,Twitter social network,tweet analysis,BullyNet
+
+
+
+
+Tweet_Prediction_model,detection_ratio_model,detection_accuracy_model
+
